@@ -1,4 +1,4 @@
-Utopian Worlds
+# Utopian Worlds
 
 My definition of Utopia
 Utopia is a state of complete ideality.
@@ -32,10 +32,12 @@ industry: (ordered with increasing average annual salary, according to govt data
  
 Language used for EDA: Python
 
-HTML file rendered using quarto extension.
+HTML file rendered using quarto.
 
 Quarto is a great tool to build summary reports or documents with plots and explanations in clean and consize manner.
 
 A .qmd file is rendered on HTML file to give a clean and beautiful output report of the complete EDA.
+
+Quarto reference: https://quarto.org/
 
  
