@@ -1,6 +1,6 @@
 # Utopian Worlds
 
-My definition of Utopia
+## My definition of Utopia
 Utopia is a state of complete ideality.
 Definition of ideality or utopia can be different for every individual.
 I feel a world can be called an Utopian world based on following factors:
@@ -12,7 +12,7 @@ I feel a world can be called an Utopian world based on following factors:
 
 This is exploratory data analysis of two interesting fictional worlds to compare them and check if any of them or none of them is close to Utopia or not.
 
-Data dictionary:\
+## Data dictionary:
 age00: the age at the time of creation. This is only the population from age 30-60.  
 education: years of education they have had. Education assumed to have stopped. A static data column.  
 marital: 0-never married, 1-married, 2-divorced, 3-widowed  
